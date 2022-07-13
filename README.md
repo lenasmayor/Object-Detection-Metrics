@@ -14,6 +14,8 @@
 
 If you use this code for your research, please consider citing this source:
 
+If you use this code for your research, please consider citing this source:
+
 ``` 
 @Article{electronics10030279,
 AUTHOR = {Padilla, Rafael and Passos, Wesley L. and Dias, Thadeu L. B. and Netto, Sergio L. and da Silva, Eduardo A. B.},
