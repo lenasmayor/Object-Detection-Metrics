@@ -10,7 +10,7 @@
 </p>
 
 
-## Citation2
+## Citation
 
 If you use this code for your research, please consider citing this source:
 
